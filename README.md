@@ -22,20 +22,6 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats & Languages</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheesha22&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Oshanda's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
----
-
 <h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">The tools and technologies I use to bring ideas to life:</p>
 
@@ -59,24 +45,24 @@
       <h3>✈️ Airline Ticket Booking System</h3>
       <p>A desktop application designed for streamlined and user-friendly airline ticket reservations.</p>
       <p><strong>Tech Stack:</strong> C#, .NET, MS SQL Server</p>
-      </td>
+    </td>
     <td width="50%" valign="top">
       <h3>🏥 Hospital Management System</h3>
       <p>A comprehensive web application to manage patient data, appointments, and hospital operations efficiently.</p>
       <p><strong>Tech Stack:</strong> Java, Spring Boot, React, MySQL</p>
-      </td>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Tuition Management Mobile App</h3>
       <p>An Android application to help manage schedules, payments, and communication for tuition classes.</p>
       <p><strong>Tech Stack:</strong> Java, Android Studio, Firebase</p>
-      </td>
+    </td>
     <td width="50%" valign="top">
       <h3>🐘 IoT Wildlife Railway Tracking System</h3>
       <p>An innovative IoT-based solution to detect wildlife near railway tracks, aiming to prevent collisions and protect wildlife in Sri Lanka.</p>
       <p><strong>Tech Stack:</strong> Python, Raspberry Pi, Sensors, Cloud Platform</p>
-      </td>
+    </td>
   </tr>
 </table>
 
