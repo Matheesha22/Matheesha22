@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Oshanda%20Matheesha&fontSize=70&fontColor=ffffff&animation=float&fontAlignY=40" alt="Creative Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=180&section=header&text=Oshanda%20Matheesha&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <p align="center">
