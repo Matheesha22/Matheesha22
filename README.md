@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hola, I'm Oshanda Matheesha!
+  Hello, I'm Oshanda Matheesha!
 </h1>
 
 <p align="center">
@@ -22,13 +22,16 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">📊 My GitHub Stats & Languages</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheesha22&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Oshanda's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheesha22&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha22&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ---
